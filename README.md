@@ -1,14 +1,14 @@
 # SkImage
-Turn images to Minecraft skins!
+*Turn images to Minecraft skins!*
 
-Download:      [Sk-Image.jar](https://github.com/sShibaa/SkImage/blob/master/Sk-Image.jar?raw=true)
-
-If the "Replace Selected File" button is left unchecked it will export the png with the name of the image with "_skin" at the end. It's completely up to you on whether you want this on or not.
+**Download**:      [Sk-Image.jar](https://github.com/sShibaa/SkImage/blob/master/Sk-Image.jar?raw=true)
 
 
 
 
-THINGS TO KNOW:
+
+
+**THINGS TO KNOW:**
 
 If the "Replace Selected File" button is left unchecked it will export the png with the name of the image with "_skin" at the end. It's completely up to you on whether you want this on or not.
 If the program doesnt open, make sure you have Java installed.
